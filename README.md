@@ -1,2 +1,2 @@
 # html-pdf
-This repository created for convert html to pdf.
+This repository is created for convert html to pdf.
